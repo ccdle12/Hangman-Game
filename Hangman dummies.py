@@ -1,7 +1,6 @@
 import random
 import urllib
 import time
-import pygame
 
 class wordGen():
 
